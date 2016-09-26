@@ -1,6 +1,6 @@
 /* C++ program to solve N Queen Problem using
 backtracking */
-#define N 8
+#define N 8 /*Change the value of N for the various sizes of the board*/
 #include<stdio.h>
 #include<conio.h>
 #include<stdlib.h>
